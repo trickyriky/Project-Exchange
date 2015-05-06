@@ -13,6 +13,8 @@ Exchange is to have the following features
   7. no fiat currencys or user verification, 2fa would be advantagous via authy maybe google
   8. a fee system for trades & withdrawals (making profit here is open to debate)
   9. paid voting system for the listing of coins, premines, ito ico will never reach this list.
+  10. meet the team static webpage, with links to social media, maybe a facebook group we all frequent rather than individual profiles, not sure any other exchange has this so would be a good from marketting perspective.
+  11. Social media Presence for the exchange, maybe integrated with the front end.
 
 
 preliminary terms of service to coin networks
