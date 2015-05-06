@@ -1,9 +1,9 @@
-# Project-Exchange
+# Project-Exchange! <br>
 Basic Spec Sheet, for Project-Exchange
 
-Intent
+Intent. <br>
 to build a crypto currency, any coin for any coin exchange platform, in nodejs with suplimental software support (redis, mongo, etc).
-Exchange is to have the following features
+Exchange is to have the following features<br>
   1. Any coin for any coin (all pairs) most important non negotiable.
   2. A troll box, with ignore user option, and calc feature (without a secondary bot) popout would be nice. maybe irc integration.
   3. Hot and Cold Wallets, (will likely require 2 machines just for the wallets, and 2x ssl certificates).
@@ -14,7 +14,7 @@ Exchange is to have the following features
   8. a fee system for trades & withdrawals (making profit here is open to debate)
   9. paid voting system for the listing of coins, premines, ito ico will never reach this list.
   10. meet the team static webpage, with links to social media, maybe a facebook group we all frequent rather than individual profiles, not sure any other exchange has this so would be a good from marketting perspective.
-  11. Social media Presence for the exchange, maybe integrated with the front end.
+  11. Social media Presence for the exchange, maybe integrated with the front end.<br>
 
 
 preliminary terms of service to coin networks. <br>
