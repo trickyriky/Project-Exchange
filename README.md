@@ -17,15 +17,17 @@ Exchange is to have the following features
   11. Social media Presence for the exchange, maybe integrated with the front end.
 
 
-preliminary terms of service to coin networks
+preliminary terms of service to coin networks. <br>
 we will not accept ico, ito or premine coins, any coin with no nethash for 7 days or more will face delisting.
 
 
 
 
-preliminary terms of service to users
+preliminary terms of service to users. <br>
 These are the people who place their trust in us, and our coding, these guys are priority number 1 as is their safety and security.
 
-
+EXPENSES. <br>
+proposed $100 investment cap by each of the 4 creators.
+All expenses to go to the vote, then 4 way even splitt with an online spreadsheet available to only the 4 creators / investors.
 
 
