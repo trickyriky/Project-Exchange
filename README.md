@@ -18,7 +18,7 @@ Exchange is to have the following features<br>
 
 Proposed initial coins to be made available for trade.<br>
 
-DOGE, PAC, BUN, CAGE, HEX, KARM, GCN, html5, FJC, POW, FER<br>
+DOGE, PAC, BUN, CAGE, HEX, KARM, GCN, HTML5, FJC, POW, FER<br>
 
 preliminary terms of service to coin networks. <br>
 we will not accept ico, ito or premine coins, any coin with no nethash for 7 days or more will face delisting.
