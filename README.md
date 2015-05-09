@@ -16,6 +16,9 @@ Exchange is to have the following features<br>
   10. meet the team static webpage, with links to social media, maybe a facebook group we all frequent rather than individual profiles, not sure any other exchange has this so would be a good from marketting perspective.
   11. Social media Presence for the exchange, maybe integrated with the front end.<br>
 
+Proposed initial coins to be made available for trade.<br>
+
+DOGE, PAC, BUN, CAGE, HEX, KARM, GCN, html5, FJC, POW, FER<br>
 
 preliminary terms of service to coin networks. <br>
 we will not accept ico, ito or premine coins, any coin with no nethash for 7 days or more will face delisting.
